@@ -6,7 +6,7 @@
 }
 
 body{
-    background:#f4f6f8;
+    background:#90B1DB;
     color:#222;
 }
 
@@ -14,7 +14,7 @@ header{
     position:fixed;
     top:0;
     width:100%;
-    background:#28282F;
+    background:#A3CEEF;
     color:white;
     padding:15px 40px;
     display:flex;
@@ -76,7 +76,7 @@ nav a:hover{
 .button{
     display:inline-block;
     padding:10px 18px;
-    background:#28282F;
+    background:#DFE9F5F;
     color:white;
     border-radius:6px;
     text-decoration:none;
@@ -106,3 +106,4 @@ nav a{
 header{
     pointer-events: auto !important;
 }
+
