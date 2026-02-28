@@ -96,6 +96,12 @@ nav a:hover{
     border-radius:50%;
     object-fit:cover;
 }
+.img-centro{
+    display:block;
+    margin:20px auto;
+    width:200px;
+    border-radius:10px;
+}
 }
 nav a{
     pointer-events: auto !important;
@@ -106,5 +112,6 @@ nav a{
 header{
     pointer-events: auto !important;
 }
+
 
 
