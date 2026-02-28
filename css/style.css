@@ -103,6 +103,8 @@ nav a:hover{
     margin-right:auto;
     width:1000px;
     height:auto;
+    margin:40px auto;
+    
 }
 }
 nav a{
@@ -114,6 +116,7 @@ nav a{
 header{
     pointer-events: auto !important;
 }
+
 
 
 
