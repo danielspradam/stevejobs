@@ -97,7 +97,7 @@ nav a:hover{
     object-fit:cover;
 }
 .img-centro{
-    width:21%;
+    width:46%;
     height:auto;
 }
 }
@@ -110,6 +110,7 @@ nav a{
 header{
     pointer-events: auto !important;
 }
+
 
 
 
